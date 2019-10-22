@@ -1,7 +1,7 @@
 package cn.itcast.day05.demo01;
 
 /**
- * 你好，孩子，我们爱你
+ * 你好，孩子，我
  */
 public class NiHao {
     public static void main(String[] args) {
